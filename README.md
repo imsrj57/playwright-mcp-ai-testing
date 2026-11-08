@@ -87,3 +87,7 @@ ai-workflow/
 ## Author
 
 Suraj Nair, SDET · [LinkedIn](https://www.linkedin.com/in/imsrj)
+
+## License
+
+[MIT](LICENSE)
